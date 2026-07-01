@@ -1,0 +1,17 @@
+
+.icon-contact {
+    background-color: #28a745 !important; /* cambia el color de fondo de los iconos de contacto de celeste a verde claro o verde de fondo principal */
+}
+#identidadMail{
+    color: #17a04e !important; /* cambia el color del texto del mail por el mismo verde de fondo principal */
+}
+
+
+.copyright {
+    background-color: #124b34 !important; /* cambia el color del footer de copyright de azul oscuro a verde oscuro */
+}
+
+.text-secondary {
+    color: #124b34 !important;
+}
+
